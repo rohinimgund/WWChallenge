@@ -11,9 +11,8 @@ Maven dependencies added for Selenium-java (3.141.59) & Selenium-api (3.141.59),
 
 Selenium Chromedriver = present in Challenge folder at location = src/test/resources/drivers/chromedriver (Compatible with mac only)
 
-Following steps are executed as part of test:
 
-Steps:
+Test Steps:
 
 1) Navigate to WW Studio Finder page  https://www.weightwatchers.com/us/find-a-workshop/
 
