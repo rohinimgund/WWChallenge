@@ -34,10 +34,16 @@ Test Steps:
 Steps to run attached project
 
 1. Download Challenge.zip on local machine 
+
 2. Unzip compressed Challenge.zip to Challenge
+
 3. Open Eclipse
+
 4. Click on Open Project from file system
+
 5. Provide the path of the Challenge folder
+
 6. Build Project & make sure all the maven dependencies are installed properly 
+
 7. Run takeHomeUIAutomationTest.java as JunitTest 
 
