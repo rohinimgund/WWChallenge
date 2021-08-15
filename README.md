@@ -1,15 +1,14 @@
 # WWChallenge
 # UI Automation - Take Home Challenge
 
-# Details:
-# Eclipse Maven Project 
-# Eclipse Community Latest Version = Eclipse IDE 2021‑06
-# Java = JRE System Library [JavaSE-1.8(Java SE 14.0.2)]
-# Maven dependencies added for Selenium-java (3.141.59) & Selenium-api (3.141.59), Common-io (2.6), JUnit (4.11)
+Details:Eclipse Maven Project 
+Eclipse Community Latest Version = Eclipse IDE 2021‑06
+Java = JRE System Library [JavaSE-1.8(Java SE 14.0.2)]
+Maven dependencies added for Selenium-java (3.141.59) & Selenium-api (3.141.59), Common-io (2.6), JUnit (4.11)
 
-run takeHomeUIAutomationTest.java as JunitTest 
+Run takeHomeUIAutomationTest.java as JunitTest 
 
-# following steps are executed as part of test 
+Following steps are executed as part of test:
 
 Steps:
 
