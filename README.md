@@ -1,10 +1,14 @@
 # WWChallenge
 # UI Automation - Take Home Challenge
 
-Details:Eclipse Maven Project 
+Details: Eclipse Maven Project 
+
 Eclipse Community Latest Version = Eclipse IDE 2021‑06
+
 Java = JRE System Library [JavaSE-1.8(Java SE 14.0.2)]
+
 Maven dependencies added for Selenium-java (3.141.59) & Selenium-api (3.141.59), Common-io (2.6), JUnit (4.11)
+
 Selenium Chromedriver = present in Challenge folder at location = src/test/resources/drivers/chromedriver (Compatible with mac only)
 
 Following steps are executed as part of test:
